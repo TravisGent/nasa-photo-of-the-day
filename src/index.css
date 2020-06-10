@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.pictureDiv {
+  width: 640px;
+  height: 480px;
+  background-position: center;
+}
